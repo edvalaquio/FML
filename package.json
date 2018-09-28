@@ -1,0 +1,22 @@
+{
+  "name": "fml-system",
+  "version": "1.0.0",
+  "description": "Fault detection via Machine Learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LasingNaJedi69/FML.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LasingNaJedi69/FML/issues"
+  },
+  "homepage": "https://github.com/LasingNaJedi69/FML#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
