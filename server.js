@@ -14,4 +14,8 @@ app.use(function(req, res, next) {
 	next();
 });
 
+app.post('/sendFormData', function(){
+	return ("Something");
+});
+
 app.listen(port, () => console.log(`Listening on port ${port}!`));
